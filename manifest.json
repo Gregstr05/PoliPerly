@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Poli Perly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Injects poli's comments on test onto his website as a separate page",
   "permissions": ["activeTab"],
   "content_scripts": [
